@@ -1,4 +1,2 @@
 # MEANshopper
-ecommerce build with MEAN stack
-
-## aa
+ecommerce built with MEAN stack
